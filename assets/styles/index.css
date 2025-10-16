@@ -1,0 +1,39 @@
+/*Primary Color */
+
+
+body{
+    background-color: #fffef4;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+  
+    font-style: normal;
+
+    padding-top: 5vh;
+    padding-left: 20vw; padding-right: 20vw;
+}
+
+div.body_wrapper{
+    margin-bottom: 5vh;
+
+    width: 100%;
+    height: auto;
+    overflow: visible;
+
+    border: 0px solid;
+    border-color: black;
+}
+
+#name{
+    margin: 0;
+
+    font-size: 70px;
+    letter-spacing: 0.5vw;
+}
+
+p{
+    font-size: 25px;
+}
+
+p#intro{
+    text-align: justify;
+}
